@@ -1,0 +1,2 @@
+# ATCONFIGMGSWAGGENS
+config
